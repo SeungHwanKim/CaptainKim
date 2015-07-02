@@ -1,0 +1,19 @@
+Quiz on readings 
+
+Name : SeungHwan Kim
+
+1. In the PNAS paper by Kramer et al., the authors show that emotional states can be transferred to others without direct interaction. Describe their experiment and the results of their experiment.
+
+Describing therir experiment:
+Emotional states can be transferred to others via emotional contagion, leading people to experience the same emotions without their awareness. To prove this, in an experiment with people who use Facebook, they test whether emotional contagion occur outside of in-person interaction between individuals by reducing the amount of emotional content in the News Feed. 
+
+
+The result of the experiment
+The result is, when positive expressions were reduced, people produced fewer positive posts and more negative posts; when negative expressions were reduced,
+the opposite pattern occurred.
+These results indicate that there can be massive-scale emotional contagion through social networks(likes Facebook) 
+
+
+2. How does the McKinsey report difine "big data"?
+
+¡°Big data¡± refers to datasets whose size is beyond the ability of typical database software tools to capture, store, manage, and analyze.
